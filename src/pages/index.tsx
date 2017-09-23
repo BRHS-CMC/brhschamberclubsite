@@ -27,9 +27,9 @@ export default (props: IndexPageProps) =>
         toggleSidebar={props.toggleSidebar}
       />
       <Container text>
-        <Header inverted as="h1">Gatsby 1.0 - Starter kit</Header>
-        <Header inverted as="h2">Typescript - Jest - Semantic UI</Header>
-        <Button primary size="huge">Get started!</Button>
+        <Header inverted as="h1">BRHS Chamber Music Club</Header>
+        <Header inverted as="h2">Open to all instrumentalists and vocalists!</Header>
+        {/*<Button primary size="huge">Get started!</Button>*/}
       </Container>
     </Segment>
 
